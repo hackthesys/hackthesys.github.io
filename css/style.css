@@ -1,0 +1,22 @@
+title {
+  text-align: center;
+  color: red;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+h3 {
+  text-align: center;
+  color: rgb(	0, 128 ,0);
+  /*font-size: 55 ;*/
+}
+
+body {
+  background-color: black;
+}
+.myIMG {
+text-align: center;
+color: #9f5e5e;
+
+}
